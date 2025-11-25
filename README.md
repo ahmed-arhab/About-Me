@@ -17,6 +17,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python" />
+    <img src="https://skillicons.dev/icons?i=java,python,vscodestudio" />
+### 🔗 Make Connections with me through 
+<p align=""left>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicon.dev/icons?i=linkedin>https://www.linkedin.com/in/ahmed-arhab-07424531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   </a>
 </p>
