@@ -14,18 +14,17 @@
 ### 🌐 Technical Skills & Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,react,angular,git" />
   </a>
 </p>
 
 ### 🛠️ Technical Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,canva" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
   </a>
 </p>
 
-<br/>
 
 <h3 align="center">🔗 Connect with me via</h3>
 <p align="center">
